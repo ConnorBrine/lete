@@ -1,2 +1,0 @@
-Exercise1 = Lesson6 (inside will see Exercise1.csproj)
-Exercise2 = Exercise2
